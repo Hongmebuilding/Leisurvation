@@ -1,4 +1,4 @@
-# Leisurvation - JSP 팀 프로젝트
+# Leisurvation - MyBatis,Thymeleaf 팀 프로젝트
 
 ## Team 와장창
 **이수민**(팀장)
